@@ -1,0 +1,22 @@
+first = " Chuck "
+last = " Norbit "
+age = " 27 "
+ 
+print first, last, age
+ 
+sideA = 12.55
+sideB = 17.85
+sideC = sideA * sideA + sideB * sideB
+ 
+print sideC
+ 
+operand1 = 95
+operand2 = 64.5
+ 
+print operand1 + operand2
+print operand1 - operand2
+print operand1 * operand2
+print operand1 / operand2
+print operand1 % operand2
+ 
+#If the value of the operand were to change the whole code would change
